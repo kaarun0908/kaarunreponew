@@ -5,7 +5,7 @@ from tkinter import messagebox
 appointments = []
 
 doctors = [
-    ("Dr. Priya", "Cardiologist", "09:00 AM - 11:00 AM"),
+    ("Dr. Priya naadhan", "Cardiologist", "09:00 AM - 11:00 AM"),
     ("Dr. Arun", "Neurologist", "11:00 AM - 01:00 PM"),
     ("Dr. Ravi", "Orthopedic", "02:00 PM - 04:00 PM"),
     ("Dr. Meena", "Pediatrician", "10:00 AM - 12:00 PM"),
