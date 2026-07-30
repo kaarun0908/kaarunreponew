@@ -21,7 +21,7 @@ def login():
     # Left Side
     left = ctk.CTkFrame(app,
                         width=350,
-                        fg_color="#1E88E5",
+                        fg_color="#6EB7F7",
                         corner_radius=0)
 
     left.pack(side="left", fill="both")
